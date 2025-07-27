@@ -5,7 +5,7 @@ spring:
 cards:
   message: "This is Cards Microservice in Local Environment"
   contact_details:
-    name: "Asif in Local"
+    name: "Asif in Local Environment"
     email: "{cipher}59daf70a5d34c534910b2665bf6df4e71f073e3cd1abe88e54e196f405e34933"
   on_call_support:
     - 9898989898
