@@ -7,7 +7,7 @@ cards:
   message: "This is cards Microservice in Prod Environment"
   contact_details:
     name: "Asif in Prod"
-    email: "{cipher}993b5477de0a4c676d5ceda27e91a034d63b9492c09f237423609b329917413"
+    email: "{cipher}993b5477de0a4c676d5ceda27e91a034d63b9492c09f237423609b329917413e"
   on_call_support:
     - 9823232323
     - 9923523422
