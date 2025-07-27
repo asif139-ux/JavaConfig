@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+accounts:
+  message: "This is accounts Microservice in Prod Environment"
+  contact_details:
+    name: "Asif in Prod"
+    email: "asifu@gmail.com"
+  on_call_support:
+    - 9823232323
+    - 9923523422

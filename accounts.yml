@@ -1,0 +1,8 @@
+accounts:
+  message: "This is accounts Microservice in Local Environment"
+  contact_details:
+    name: "Asif in Local"
+    email: "asifu@gmail.com"
+  on_call_support:
+    - 9823232323
+    - 9923523422

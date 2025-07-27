@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+cards:
+  message: "This is cards Microservice in qa"
+  contact_details:
+    name: "Asif in qa"
+    email: "asifu@gmail.com"
+  on_call_support:
+    - 9823232323
+    - 9923523422
