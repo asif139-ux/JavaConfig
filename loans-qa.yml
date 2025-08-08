@@ -4,10 +4,11 @@ spring:
       on-profile: "qa"
 
 loans:
-  message: "This is Loans MicroServices -QA profile"
+  message: "Hey Welcome to Loans MicroServices -QA profile"
   contactDetails:
     name: "Asif"
     email: "azifussef139@gmail.com"
   onCallSupport:
     - 9992322222
+
     - 9002233333
