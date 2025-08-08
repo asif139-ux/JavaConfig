@@ -4,10 +4,11 @@ spring:
       on-profile: "default"
 
 loans:
-  message: "This is Loans MicroServices - Default profile"
+  message: "Hey Welcome to Loans MicroServices - Default profile"
   contactDetails:
     name: "Asif"
     email: "azifussef139@gmail.com"
   onCallSupport:
     - 9992322222
+
     - 9002233333
